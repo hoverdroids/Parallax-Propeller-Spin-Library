@@ -10,6 +10,65 @@ http://propeller-microcontroller.hoverdroids.com/Propeller-Spin-Library
 
 https://github.com/hoverdroids/Propeller-Spin-Library</p>
 </p>
+<p Each object in the library is discussed in depth on HoverDroids at:>
+<ul>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/4x4-keypad-reader'>4x4 Keypad Reader</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/ad8803'>AD8803</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/adc'>ADC</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/clock'>Clock</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/coilread'>Coilread</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/ctr'>CTR</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/debug_lcd'>Debug_LCD</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/float32'>Float32</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/float32a'>Float32A</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/float32full'>Float32Full</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/floatmath'>FloatMath</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/floatstring'>FloatString</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/fullduplexserial'>FullDuplexSerial</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/graphics'>Graphics</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/h48c-tri-axis-accelerometer'>H48C Tri-Axis Accelerometer</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/hm55b-compass-module-asm'>HM55B Compass Module Asm</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/inductor'>Inductor</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/keyboard'>Keyboard</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/license'>License</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/mcp3208'>MCP3208</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/memsic2125'>Memsic2125</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/monitor'>Monitor</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/mouse'>Mouse</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/mxd2125'>MXD2125</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/mxd2125-simple'>MXD2125-Simple</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/numbers'>Numbers</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/parallax-serial-terminal'>Parallax Serial Terminal</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/ping'>Ping</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/propellerloader'>PropellerLoader</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/propellerrtc_emulator'>PropellerRTC_Emulator</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/quadrature-encoder'>Quadrature Encoder</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/rctime'>RCTIME</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/realrandom'>RealRandom</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/serial_lcd'>Serial_Lcd</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/servo32'>Servo32</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/servo32_ramp'>Servo32_Ramp</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/simple_numbers'>Simple_Numbers</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/simple_serial'>Debug_LCD</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/simpledebug'>SimpleDebug</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/spi_asm'>Spi_Asm</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/spi_spin'>Spi_Spin</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/stack-length'>Stack Length</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/stereospatializer'>StereoSpatializer</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/synth'>Synth</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/tsl230'>tsl230</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/tv'>TV</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/tv_terminal'>Tv_Terminal</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/tv_text'>Tv_Text</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/vga'>VGA</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/vga_1280x1024_tile_driver_with_cursor'>vga_1280x1024_tile_driver_with_cursor</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/vga_1600x1200_tile_driver_with_cursor'>vga_1600x1200_tile_driver_with_cursor</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/vga_512x384_bitmap'>VGA_512x384_Bitmap</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/vga_hires_text'>VGA_HiRes_Text</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/vga_text'>VGA_Text</a></li>
+<li><a href='http://propeller-microcontroller.hoverdroids.com/parallax-propeller-spin-library/vocaltract'>VocalTract</a></li>
+</ul>
+</p>
 <p>The versions of the spin objects in the HoverDroids Propeller Microcontroller Spin Library have been standardized, organized, categorized, cleaned, optimized and is ready-to-use with the HoverDroids Spin Project Templates using Brad's Spin Tool.</p>
 
 <H1>Propeller Microcontroller vs Arduino</H1>

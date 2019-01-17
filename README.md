@@ -8,14 +8,9 @@ http://propeller-microcontroller.hoverdroids.com/Propeller-Spin-Library
 
 -OR-
 
-https://github.com/hoverdroids/Parallax-Propeller-Spin-Library</p>
+https://github.com/hoverdroids/Propeller-Spin-Library</p>
 </p>
-<p>The version in the HoverDroids Propeller Microcontroller Spin Library have been standardized, organized, categorized, cleaned, optimized and is ready-to-use with the HoverDroids Spin Project Templates using Brad's Spin Tool.</p>
+<p>The versions of the spin objects in the HoverDroids Propeller Microcontroller Spin Library have been standardized, organized, categorized, cleaned, optimized and is ready-to-use with the HoverDroids Spin Project Templates using Brad's Spin Tool.</p>
 
-<H1>About the Propeller Microcontroller</H1>
-<p>The Parallax Propeller Microcontroller is THE next generation microcontroller. The Propeller is quickly replacing the obsolete Arduino microcontrollers because its processor is more than eight times faster (130MHz vs 16MHz),  has 8 co-processors vs a single processor, and provides significantly more I/O pins - the Propeller has 32 I/O pins and Propeller 2 has 64 I/O pins in comparison to only 14 on the Arduino microcontroller.</p>
-
-<p>Additionally, the Propeller can be programmed in C, Spin, Spin Assembly, or any language that can send and receive JSONs - such as Android, iOS, PHP, JavaScript, Python, etc. The latter requires that you download the HoverDroids Propeller Spin Library directly from HoverDroids or GitHub and then read the Programming the Propeller Microcontroller in JSON Guide.</p>
-
-<p>Most importantly, the Propeller is easier to use and less expensive than any Arduino board and it has been designed to scale with your project from prototype to full scale production.</p>
-
+<H1>Propeller Microcontroller vs Arduino</H1>
+<p style="text-align: left;">The <a href="https://www.parallax.com/product/p8x32a-q44">Parallax Propeller Microcontroller</a> is THE next generation <a href="https://en.wikipedia.org/wiki/Microcontroller">microcontroller</a>. The Propeller is quickly replacing the <a href="https://forum.arduino.cc/index.php?topic=381308.0">obsolete Arduino microcontrollers</a> because its processor is <a href="http://forums.parallax.com/discussion/120079/can-you-overclock-the-propeller-with-extreme-measures">more than eight times faster (130MHz vs 16MHz)</a>,&nbsp; has 8 co-processors vs a single processor, and provides significantly more I/O pins – the Propeller has 32 I/O pins and <a href="https://www.parallax.com/product/64000-es">Propeller 2</a> has 64 I/O pins in comparison to only 14 on the <a href="https://store.arduino.cc/arduino-mega-2560-rev3">Arduino microcontroller</a>.</p>
